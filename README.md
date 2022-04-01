@@ -1,9 +1,9 @@
 # Crypto Boy NFT Marketplace
-<i>NFT marketplace DApp where users mint ERC721 implemented Crypto Boy NFTs.</i>
+<i>NFT marketplace DApp where users mint ERC721 implemented AtoMint NFTs.</i>
 #
 ![Untitled](https://user-images.githubusercontent.com/89033750/161187527-0246439b-d20d-4de3-a720-a4500d7f194f.png)
 ![Untitled1](ht![Untitled2](https://user-images.githubusercontent.com/89033750/161187543-166c05ac-c4c0-42cb-aeea-6b7fe24a6fa1.png)
-tps://user-images.githubusercontent.com/89033750/161187536-9d95ef53-a77d-4686-8fa5-a2e67d033b35.png)
+![Untitled1](https://user-images.githubusercontent.com/89033750/161187598-175fff3c-bed7-4e6b-9b3b-19a32efa5e6d.png)
 ![Untitled3](https://user-images.githubusercontent.com/89033750/161187547-88b5e86b-780a-444b-acb3-3cac6748ad99.png)
 
 ### Features
