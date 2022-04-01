@@ -1,9 +1,13 @@
 # Crypto Boy NFT Marketplace
 <i>NFT marketplace DApp where users mint ERC721 implemented Crypto Boy NFTs.</i>
 #
-<img align="right" width="350" src="./image.png"></img>
+![Untitled](https://user-images.githubusercontent.com/89033750/161187527-0246439b-d20d-4de3-a720-a4500d7f194f.png)
+![Untitled1](ht![Untitled2](https://user-images.githubusercontent.com/89033750/161187543-166c05ac-c4c0-42cb-aeea-6b7fe24a6fa1.png)
+tps://user-images.githubusercontent.com/89033750/161187536-9d95ef53-a77d-4686-8fa5-a2e67d033b35.png)
+![Untitled3](https://user-images.githubusercontent.com/89033750/161187547-88b5e86b-780a-444b-acb3-3cac6748ad99.png)
+
 ### Features
-- Mint custom ERC721 implemented Crypto Boy Tokens.
+- Mint custom ERC721 implemented ATOPAINTNFT Tokens.
 - Sell ATOPAINTNFT tokens on the marketplace.
 - Set desired token price.
 - Toggle between keeping the token for sale and not for sale.
@@ -18,13 +22,6 @@
 - [web3.js](https://web3js.readthedocs.io/en/v1.3.4/) - Allows users to interact with a local or remote ethereum node using HTTP, IPC or WebSocket.
 - [Truffle](https://www.trufflesuite.com/truffle) - Development environment, testing framework and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM).
 - [Ganache](https://www.trufflesuite.com/ganache) - Personal blockchain for Ethereum development used to deploy contracts, develop DApps, and run tests.
-#
-### Interact with the deployed DApp
-- Crypto Boy Marketplace DApp requires [Metamask](https://metamask.io/) browser wallet extension to interact with.
-- Connect metamask browser wallet to Kovan Test Network.
-- Request and get test etheres for the metamask account from [Kovan Faucet](https://gitter.im/kovan-testnet/faucet) to make transactions.
-- Crypto Boy Marketplace Smart Contract is deployed to Kovan Testnet - [0x420d2a6E87D87992EB01e5BFe762B3F437dBfD85](https://kovan.etherscan.io/address/0x420d2a6e87d87992eb01e5bfe762b3f437dbfd85)
-- Access Crypto Boy Marketplace DApp at [cryptoboys-NFT-marketplace](https://devpavan04.github.io/cryptoboys-nft-marketplace/) and start minting your Crypto Boys.
 #
 ### Run the DApp Locally
 #### Install truffle
@@ -41,7 +38,7 @@ ganache-cli --port 7545
 ```
 #### Open new terminal window and clone this repository
 ```
-git clone https://github.com/devpavan04/cryptoboys-NFT-marketplace.git
+git clone https://github.com/CryptoBrainStorm0417/AtoMint
 ```
 #### Install dependencies
 ```
