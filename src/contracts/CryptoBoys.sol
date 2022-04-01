@@ -28,7 +28,7 @@ contract CryptoBoys is ERC721 {
     bool forSale;
   }
 
-  // map cryptoboy's token id to crypto boy
+  // map AtoNFT's token id to crypto boy
   mapping(uint256 => CryptoBoy) public allCryptoBoys;
   // check if token name exists
   mapping(string => bool) public tokenNameExists;

@@ -4,7 +4,7 @@
 <img align="right" width="350" src="./image.png"></img>
 ### Features
 - Mint custom ERC721 implemented Crypto Boy Tokens.
-- Sell Crypto Boy tokens on the marketplace.
+- Sell ATOPAINTNFT tokens on the marketplace.
 - Set desired token price.
 - Toggle between keeping the token for sale and not for sale.
 - Keeps track of all the tokens owned by an account - minted and bought.
@@ -45,7 +45,7 @@ git clone https://github.com/devpavan04/cryptoboys-NFT-marketplace.git
 ```
 #### Install dependencies
 ```
-cd cryptoboys-NFT-marketplace
+cd ATOPAINTNFT-NFT-marketplace
 npm install
 ```
 #### Compile smart contract

@@ -57,7 +57,7 @@ class FormAndPreview extends Component {
       <div>
         <div className="card mt-1">
           <div className="card-body align-items-center d-flex justify-content-center">
-            <h5>Color Your Crypto Boy As You Want It To be!</h5>
+            <h5>You can create your AtoPaintNFT with your eyes</h5>
           </div>
         </div>
         <form onSubmit={this.callMintMyNFTFromApp} className="pt-4 mt-1">
@@ -426,7 +426,7 @@ class FormAndPreview extends Component {
                   type="text"
                   value={this.state.cryptoBoyName}
                   className="form-control"
-                  placeholder="Enter Your Crypto Boy's Name"
+                  placeholder="Enter Your AtomoNFT's Name"
                   onChange={(e) =>
                     this.setState({ cryptoBoyName: e.target.value })
                   }
@@ -453,7 +453,7 @@ class FormAndPreview extends Component {
                 type="submit"
                 className="btn mt-4 btn-block btn-outline-primary"
               >
-                Mint My Crypto Boy
+                MINT YOUR AtoPaintNFT
               </button>
               <div className="mt-4">
                 {this.props.nameIsUsed ? (

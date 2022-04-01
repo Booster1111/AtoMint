@@ -29,25 +29,25 @@ const CryptoBoyNFTImage = ({ colors }) => {
 
   const head = {
     zIndex: "1",
-    width: "100px",
-    height: "100px",
+    width: "150px",
+    height: "150px",
     borderRadius: "50%",
     margin: "2rem auto 0",
-    border: `8px solid ${headBorderColor}`,
+    border: `3px solid ${headBorderColor}`,
     backgroundColor: `${headBackgroundColor}`,
     position: "relative",
   };
 
   const eyeLeft = {
     zIndex: "1",
-    width: "60px",
-    height: "60px",
+    width: "70px",
+    height: "70px",
     backgroundColor: `${leftEyeBackgroundColor}`,
     borderRadius: "50%",
     position: "absolute",
-    top: "0rem",
-    left: "-1.5rem",
-    border: `6px solid ${leftEyeBorderColor}`,
+    top: "2rem",
+    left: "0rem",
+    border: `3px solid ${leftEyeBorderColor}`,
   };
 
   const eyeRight = {
@@ -57,34 +57,34 @@ const CryptoBoyNFTImage = ({ colors }) => {
     backgroundColor: `${rightEyeBackgroundColor}`,
     borderRadius: "50%",
     position: "absolute",
-    top: "-1.2rem",
-    left: "2.8rem",
+    top: "2rem",
+    left: "4.5rem",
     border: `6px solid ${rightEyeBorderColor}`,
   };
 
   const pupilLeft = {
-    width: "20px",
-    height: "20px",
+    width: "50px",
+    height: "50px",
     backgroundColor: `${leftPupilBackgroundColor}`,
     borderRadius: "50%",
     position: "absolute",
-    left: "1rem",
-    top: "1rem",
+    left: "0.7rem",
+    top: "0.7rem",
   };
 
   const pupilRight = {
-    width: "30px",
-    height: "30px",
+    width: "50px",
+    height: "50px",
     backgroundColor: `${rightPupilBackgroundColor}`,
     borderRadius: "50%",
     position: "absolute",
-    left: "1rem",
-    top: "1rem",
+    left: "0.1rem",
+    top: "0.1rem",
   };
 
   const mouth = {
     position: "absolute",
-    top: "12px",
+    top: "70px",
     left: "0",
     right: "0",
     height: "60px",
@@ -99,9 +99,9 @@ const CryptoBoyNFTImage = ({ colors }) => {
     left: "7.7rem",
     top: "-0.1rem",
     width: "15px",
-    height: "30px",
+    height: "10px",
     backgroundColor: `${neckBackgroundColor}`,
-    border: `4px solid ${neckBorderColor}`,
+    border: `2px solid ${neckBorderColor}`,
   };
 
   const body = {
